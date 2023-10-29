@@ -1,0 +1,6 @@
+[submodule "deit"]
+	path = deit
+	url = https://github.com/ajevnisek/deit.git
+[submodule "SimMIM"]
+	path = SimMIM
+	url = https://github.com/microsoft/SimMIM.git

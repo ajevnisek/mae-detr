@@ -1,0 +1,6 @@
+.idea
+deit/mae/mae_finetuned_vit_base.pth
+deit/mae/mae_visualize_vit_large.pth
+deit/mae/mae_pretrain_vit_base.pth
+deit/mae/mae_visualize_vit_large_ganloss.pth
+docker_results
